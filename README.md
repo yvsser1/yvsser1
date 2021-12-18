@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yasserdalouzi@gmail.com**
 
-- ⚡ Fun fact **i'm a Techno/Nature lover**
+- ⚡ Fun fact **i'm a Techno/Stoicism lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
