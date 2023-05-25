@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack MERN Development (NodeJS, ReactJS ..) & Laravel Framework**
 
-- 🤝 Actively looking for a job/internship
+- 🤝 Actively looking for a New Opportunities! 
 
 - 📫 How to reach me **yasserdalouzi@gmail.com**
 
