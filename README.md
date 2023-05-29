@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Full Stack MERN Development (NodeJS, ReactJS ..) & Laravel Framework**
 
-- 🤝 Actively looking for a New Opportunities! 
+- 🤝 Actively looking for a New Opportunities and experiences!
 
 - 📫 How to reach me **yasserdalouzi@gmail.com**
 
-- ⚡ Fun fact **i'm a House/Techno Music lover**
+- ⚡ Fun fact **i'm a House/Techno Music Enthusiastic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
