@@ -1,9 +1,9 @@
 <h1 align="center">Hi There👋, I'm Yasser Dalouzi</h1>
 <h3 align="center">A passionate Full-Stack developer based in Casablanca, MA</h3>
 
-- 🌱 I’m currently learning **The MERN Stack & Laravel Framework**
+- 🌱 I’m currently working as a web dev freelancer and deep learning **The MERN Stack & Laravel Framework**
 
-- 🤝 Actively looking for a New Opportunities and experiences!
+- 🤝 Actively looking for a New Opportunities and Experiences!
 
 - 📫 How to reach me **yasserdalouzi@gmail.com**
 
