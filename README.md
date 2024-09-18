@@ -1,5 +1,5 @@
 <h1 align="center">Hi There👋, I'm Yasser Dalouzi</h1>
-<h3 align="center">A passionate Full-Stack developer based in Casablanca, MA</h3>
+<h3 align="center">A passionate Full-Stack Web Developer based in Casablanca, MA</h3>
 
 - 🌱 I’m currently working as a web dev freelancer and deep learning **The MERN Stack & Laravel Framework**
 
