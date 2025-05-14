@@ -1,8 +1,6 @@
 <h1 align="center">Hi There👋, I'm Yasser Dalouzi</h1>
 <h3 align="center">A passionate Full-Stack Web Developer based in Casablanca, MA</h3>
 
-- 🌱 I'm an ALX Software Engineering Student and continuously learning **New Web technologies and tools**
-
 - 🤝 Actively looking for a New Opportunities and Experiences!
 
 - 📫 How to reach me **yasserdalouzi@gmail.com**
